@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567789997 source:c:\users\admin\desktop\tp12019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1567789903 c:\users\admin\desktop\tp12019\functions.h
+
+1567789997 source:c:\users\admin\desktop\tp12019\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
