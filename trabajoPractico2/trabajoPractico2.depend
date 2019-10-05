@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1570242583 source:c:\users\admin\desktop\utn 2019 +++++\trabajopractico2\arrayemployee.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayEmployee.h"
+	"io.h"
+	<strings.h>
+	<ctype.h>
+
+1570242684 c:\users\admin\desktop\utn 2019 +++++\trabajopractico2\arrayemployee.h
+
+1570241083 source:c:\users\admin\desktop\utn 2019 +++++\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayEmployee.h"
+	"io.h"
+
+1570243020 c:\users\admin\desktop\utn 2019 +++++\trabajopractico2\io.h
+
+1570226299 source:c:\users\admin\desktop\utn 2019 +++++\trabajopractico2\io.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<strings.h>
+	"arrayEmployee.h"
+	"io.h"
+
